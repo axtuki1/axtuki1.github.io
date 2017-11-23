@@ -40,7 +40,7 @@ a:active { color: #3552E8; text-decoration: underline; }
 }
 
 .title-wrapper {
-  /* 環境に合わせて追加する */
+  border: 5px solid #F00;
 }
 
 .title {
