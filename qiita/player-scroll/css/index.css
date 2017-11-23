@@ -39,8 +39,14 @@ a:active { color: #3552E8; text-decoration: underline; }
     border-top-right-radius: 0;
 }
 
+.player {
+	background: rgb(0, 137, 223) ;
+	padding: 50px;
+}
+
 .title-wrapper {
-  border: 5px solid #F00;
+  background: rgb(255, 230, 0);
+	overflow: hidden;
 }
 
 .title {
